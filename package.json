@@ -1,0 +1,14 @@
+{
+  "name": "insert-react-docgen-markdown",
+  "version": "0.1.0",
+  "description": "Insert React Component Definitions into markdown",
+  "main": "index.js",
+  "author": "Geoff Ostrega",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "minimist": "^1.2.0",
+    "react-docgen": "^2.20.1",
+    "react-docgen-markdown-renderer": "^1.0.2"
+  }
+}
