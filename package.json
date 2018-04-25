@@ -1,6 +1,6 @@
 {
   "name": "insert-react-docgen-markdown",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Insert React Component Definitions into markdown",
   "main": "index.js",
   "author": "Geoff Ostrega",
